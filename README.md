@@ -1,4 +1,4 @@
-# Agent-Based Modelling on Carpooling Based on Ienterpersonal Proximity and Perception
+# Agent-Based Modelling on Carpooling Based on Interpersonal Proximity and Perception
 In this simulation, the model can be used to understand the interaction between interpersonal proximity and perception to carpooling.
 
 # Usage
