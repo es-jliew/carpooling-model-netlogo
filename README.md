@@ -43,9 +43,9 @@ During the run of simulation, the process is define as:
 Output of the simulation will be a graph of rate of success carpool again time. The rate of success define as number of commuters with success carpool over total commuters. The time is defined in day.
 
 <p>
-  <img src="img/screenshot-1.png" width=25% height=25%>
+  <img src="img/screenshot-1.png" width=35% height=35%>
   &nbsp; &nbsp; &nbsp;
-  <img src="img/screenshot-2.png" width=25% height=25%>
+  <img src="img/screenshot-2.png" width=35% height=35%>
   &nbsp; &nbsp; &nbsp;
-  <img src="img/screenshot-2.png" width=25% height=25%>
+  <img src="img/screenshot-2.png" width=35% height=35%>
 </p>
