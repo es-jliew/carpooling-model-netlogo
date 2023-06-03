@@ -47,5 +47,5 @@ Output of the simulation will be a graph of rate of success carpool again time. 
   &nbsp; &nbsp; &nbsp;
   <img src="img/screenshot-2.png" width=30% height=30%>
   &nbsp; &nbsp; &nbsp;
-  <img src="img/screenshot-2.png" width=30% height=30%>
+  <img src="img/screenshot-3.png" width=30% height=30%>
 </p>
